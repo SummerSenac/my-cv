@@ -1,4 +1,4 @@
-var CACHE_NAME = 'staticV3';
+var CACHE_NAME = 'staticV4';
 
 this.addEventListener('install', function(event) {
     event.waitUntil(
@@ -11,7 +11,7 @@ this.addEventListener('install', function(event) {
                 '../css/materialdesignicons.css',
                 '../css/materialdesignicons.css.map',
                  //
-                '../assets/img5.jpg',
+                '../assets/hbsm.jpg',
                 '../assets/logo.png',
                 '../assets/favicon.ico',
 

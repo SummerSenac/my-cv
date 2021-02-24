@@ -5,18 +5,13 @@
         "desc": "Professor Programador Web"
     },
     {
+        "nome": "Orube Tecnologia",
+        "range": "03/2020 - ATUAL",
+        "desc": "Professor Programador Web"
+    },
+    {
         "nome": "Senac Vitória",
         "range": "03/2014 - 03/2015",
         "desc": "Professor"
-    },
-    {
-        "nome": "Drogamaxima",
-        "range": "03/2012 - 03/2013",
-        "desc": "Tecnico em informática"
-    },
-    {
-        "nome": "Natural da Vaca",
-        "range": "03/2009 - 03/2011",
-        "desc": "Tecnico em informática"
     }
 ]

@@ -6,18 +6,18 @@ this.addEventListener('install', function(event) {
             return cache.addAll([
                 './',
 
-                //
+                // CSS
                 '../css/w3.css',
                 '../css/materialdesignicons.css',
                 '../css/materialdesignicons.css.map',
-                 //
+                 // IMAGENS
                 '../assets/hbsm.jpg',
                 '../assets/logo.png',
                 '../assets/favicon.ico',
 
-                //
+                // FONTES
                 '../fonts/materialdesignicons-webfont.woff2?v=5.8.55',
-                //
+                // MANIFEST
                 '../manifest.json',
              ]);
         })
